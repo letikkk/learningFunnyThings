@@ -1,3 +1,4 @@
-local f = {}
-
-return f
+while true do
+    print("Hello, world!")
+    task.wait(1);
+end

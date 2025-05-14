@@ -2,5 +2,9 @@
     "[lua]": {
         "editor.defaultFormatter": "JohnnyMorganz.stylua",
         "editor.formatOnSave": true,
-    }
+        "editor.autoClosingBrackets": "always",
+        "editor.autoClosingQuotes": "always",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.autoSurround": "brackets",
+    },
 }
